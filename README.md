@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil2346
-- 👀 I’m interested in Information Security
-- 🌱 I’m currently learning Java and C
+- 👀 I’m interested in Information Security and Quauntitative Analysis
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
